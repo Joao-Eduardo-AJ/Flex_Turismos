@@ -7,5 +7,5 @@ Aqui está o link da página... <br>
  https://joao-eduardo-aj.github.io/Flex_Turismos/
  
 Estamos apenas começando por aqui!!<br>
-[@LinkedIn](https://www.linkedin.com/in/joao-eduardo-2000s/) <br>
+[@LinkedIn](https://www.linkedin.com/in/joaoeduardoaj/) <br>
 [@WhatsApp](https://wa.me/qr/MV4NC2VANIZRC1)
